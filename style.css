@@ -1,0 +1,20 @@
+.game {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.character {
+    font-size: 48px;
+}
+
+#player {
+    color: green;
+}
+
+#enemy {
+    color: red;
+}
